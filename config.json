@@ -1,0 +1,9 @@
+{
+	"extensions": [  ],
+	"base_coin":{
+		"name":"bytecoin"
+	},
+	"core":{
+		"CRYPTONOTE_NAME":"avesta"
+	}
+}
