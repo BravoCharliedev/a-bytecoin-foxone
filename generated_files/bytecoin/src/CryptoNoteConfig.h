@@ -144,16 +144,9 @@ const uint32_t  P2P_IDLE_CONNECTION_KILL_INTERVAL               = (5*60); //5 mi
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
 const char* const SEED_NODES[] = { 
-	"45.32.125.246:9921",
- 	"45.32.125.246:9922",
- 	"45.32.125.246:9923",
-	"207.246.116.218:9921",
-	"207.246.116.218:9922",
-	"207.246.116.218:9923",
-	"149.28.154.116:9921",
-	"149.28.154.116:9922",
-	"149.28.154.116:9923",
-	"171.100.118.106:9921"};
+	"127.0.0.1:9921",
+ 	"127.0.0.1:9922",
+ 	"127.0.0.1:9923"};
 
 
 const std::string DEFAULT_MINER_ADDRESS           = "1RAoK1EqtsFZ6pmiaRhafmGRLWfDomf2i2WwqBmfJpaN5gitfpx3vfYPXZ819rr5DfhJk5LqTvhkKGtHLwkUfot71vGw5ep";
